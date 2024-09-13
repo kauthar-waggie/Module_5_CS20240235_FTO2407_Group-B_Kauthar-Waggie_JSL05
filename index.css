@@ -37,3 +37,14 @@ h1 {
     text-decoration: none; /* Remove underline on hover */
     color: #00FF00; /* Green color on hover */
 }
+
+/* added this in for artist name to be in white*/
+.song-title span.artist {
+    color: #FFFFFF; 
+}
+
+/* added this in to remove bullets*/
+ul {
+    list-style-type: none; 
+    padding: 0; 
+}
